@@ -1,0 +1,415 @@
+.scl-btn {
+    padding: 15px;
+    font-size: 25px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin:5px;
+    color: white;
+}
+
+/* Hover Effect */
+.scl-btn:hover {
+    opacity: 0.8;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+/* Round buttons */
+.scl-crcl {
+    border-radius: 50%;
+}
+
+/* Round Corners */
+.scl-rnd {
+    border-radius:5px;
+}
+
+.fa-facebook-f { background: #3B5998; }
+.fa-twitter { background: #55ACEE; }
+.fa-youtube { background: #bb0000; }
+.fa-telegram-plane { background: #0088cc; }
+
+.copright-area-links li {
+    margin-left: 5px;
+}
+
+
+.menu-logo-image {
+    width: 60px;
+}
+.hero-area-bg {
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+    opacity: 0.3;
+}
+
+.hero-area .left-content .content h1 {
+    color: red !important;
+    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    letter-spacing: 1px !important;
+}
+
+.feature-box {
+    padding-top: 100px;
+}
+.termin-modal .modal-dialog .modal-content {
+    background: #252f5a;
+    border-radius: 10px;
+}
+
+.introduce {
+    margin:auto;
+    width: 80%;
+}
+#footer-tab li a {
+    padding: 20px 20px;
+}
+#footer-tab li:first-child a {
+    border-top-left-radius: 5px;
+}
+
+#footer-tab li:last-child a {
+    border-top-right-radius: 5px;
+}
+
+#footer-tab li .nav-link {
+    color: #1d2124;
+    background-color: #C6BAD7;
+}
+#footer-tab li .nav-link:hover {
+    background-color: #674F8A;
+}
+#footer-tab li .nav-link.active {
+    color: #a1aed4;
+    background-color: #0E133D;
+}
+.tabs-panel {
+     width:100%;
+     height: 50%;
+     padding: 50px 20px;
+     border-bottom-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     background-color:#0E133D;
+     /*border:1px solid rgba(255, 255, 255, 0.3);*/
+ }
+
+.tabs-panel span, .terms-panel span {
+    color: rgba(255,255,255,0.7);
+    text-indent: 20px !important;
+}
+
+.terms-panel {
+    width:100%;
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-color:#0E133D;
+    /*border:1px solid rgba(255, 255, 255, 0.3);*/
+}
+
+/* end */
+
+/* dividends section */
+
+.bc-img {
+    width: 250px;
+    padding-bottom: 40px;
+}
+.dividends {
+    background: #0b122e;
+    padding-top: 112px;
+}
+
+.dividends-logo {
+    padding-bottom: 50px;
+}
+.dividends-logo-image {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.dividends-text-core {
+    border:5px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: red !important;
+}
+
+.dividends-text-footer {
+    border:2px solid white;
+    /*background-color: red !important;*/
+    border-radius: 10px;
+    margin-top: 50px;
+    padding-top:10px;
+}
+
+.countdown-wrapper ul
+{
+    text-align:center;
+}
+.countdown-wrapper li
+{
+    display:inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px 0 0 0;
+}
+
+.countdown-wrapper ul a
+{
+    text-decoration: none;
+    padding: 4px;
+    /*border: 1px solid #F2F0F0;*/
+    margin: 2px;
+    font-size:80px;
+    font-weight: 700;
+    font-family: "Ubuntu", sans-serif !important;
+}
+
+.bonus-text {
+    /*height: calc(1.68em + 1rem + 2px) !important;*/
+    border-radius: 5px !important;
+    border: 1px !important;
+}
+
+.referral-section .bonus-text:nth-of-type(1) {
+    height: 42px !important;
+}
+.kick-section .bonus-text {
+    /*border:3px solid white;*/
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+    background-color:#8DB3E2 !important;
+}
+
+.referral-section .help-box, .kick-section .help-box {
+    padding: 0px 60px 12px !important;
+    border-radius: 7px;
+    background: #070b28;
+    padding: 70px 0px !important;
+}
+
+.kick-section .help-box {
+    background: #070b28;
+}
+
+.kick-section .help-box .row:nth-of-type(3) {
+    margin-top: 70px;
+}
+.mybtn3 {
+    border-radius: 3px !important;
+    background-color: #8DB3E2;
+    border: 3px solid white;
+}
+.mybtn3:hover {
+    background-color: #6992C6 !important;
+    border:3px solid white;
+}
+
+.mybtn4 {
+    border-radius: .3em !important;
+    background-color: red;
+    border: 3px solid white;
+    color: white !important;
+}
+
+.mybtn4:hover {
+    background-color: #CE1770;
+    border: 3px solid #94C0FF;
+    color: white !important;
+}
+
+.referral-section, .kick-section {
+    background: #0b122e;
+    padding: 10px 0px 0px;
+}
+
+
+.help-section .top-title {
+    font-size: 45px !important;
+}
+.referral-section .referral-link input {
+    border-radius: 5px !important;
+}
+
+.staked {
+    margin-top: 100px;
+}
+
+.referral-footer {
+    margin-top: 50px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    text-align: center;
+}
+
+.referral-footer .small-text {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .content .inner-content{
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin-top: 46px;
+    padding-left: 32px;
+    padding-top: 32px;
+}
+
+.help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .footer-content {
+    border: 0px;
+}
+
+.small-title {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 400 !important;
+    color: white;
+    margin-bottom : 10px;
+}
+
+.small-text {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 300;
+}
+
+.bc-referral-img {
+    float: left;
+    width: 100px;
+    margin-top: 8px;
+}
+
+.ballance-text {
+    padding-left: 130px;
+    margin-top: -50px;
+    text-align: left;
+}
+
+.ballance-text h2 {
+    margin-top: -15px;
+}
+
+@media (max-width: 2000px){
+    .dividends-text {
+        margin-top: 50px;
+    }
+}
+@media  (max-width: 991px) {
+    /*.hero-area-bg {*/
+        /*margin-left: -125px;*/
+        /*height: 102%;*/
+    /*}*/
+}
+@media  (max-width: 767px) {
+
+    .small-title {
+        font-size: 27px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+    .small-text {
+        font-size: 20px;
+        line-height: 34px;
+        font-weight: 300;
+    }
+
+    /*.hero-area-bg {*/
+        /*margin-left: -16px;*/
+    /*}*/
+}
+@media  (max-width: 575px) {
+
+    #footer-tab li a {
+        padding: 5px 5px;
+    }
+    #footer-tab li:first-child {
+        width:50%;
+    }
+    #footer-tab li:nth-child(2) {
+        width:22%;
+    }
+    #footer-tab li:last-child {
+        width:28%;
+    }
+
+    .dividends {
+        padding-top: 50px;
+    }
+
+    .dividends-logo {
+        padding-bottom: 150px;
+    }
+
+    .countdown-wrapper ul a {
+        padding: 0px;
+        font-size:50px;
+    }
+    .small-title {
+        font-size: 25px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+    .small-text {
+        font-size: 20px;
+        line-height: 34px;
+        font-weight: 300;
+    }
+}
+
+@media  (max-width: 500px) {
+
+    .small-title {
+        font-size: 25px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+    .small-text {
+        font-size: 20px;
+        line-height: 34px;
+        font-weight: 300;
+    }
+}
+
+@media  (max-width: 390px) {
+    #footer-aboutus-tab, #footer-faq-tab {
+        padding-top: 18.5px !important;
+        padding-bottom: 18.5px !important;
+    }
+
+    .small-title {
+        font-size: 22px !important;
+        line-height: 20px !important;
+        font-weight: 400 !important;
+    }
+    .small-text {
+        font-size: 17px !important;
+        line-height: 34px !important;
+        font-weight: 300 !important;
+    }
+
+    .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .content .inner-content {
+        padding-left: 10px !important;
+        text-align: left !important;
+    }
+
+    .help-section .top-title {
+        font-size: 27px !important;
+    }
+
+    .help-section {
+        padding-bottom: 0px !important;
+    }
+
+    .kick-section .help-box:first-child .bonus-text {
+        font-size: 16px !important;
+    }
+
+}
